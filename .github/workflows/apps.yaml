@@ -7,7 +7,7 @@ jobs:
    runs-on: ubuntu-latest
    timeout-minutes: 10
 
-    steps:
+     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
 
